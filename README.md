@@ -1,5 +1,5 @@
 # Full-stack Contact app
-Pretty simple contact app with MVC concept
+Pretty simple contact app with Full-Stack concept
 
 ## Backend
 Running with flask. I used peewee for SQLite database.
